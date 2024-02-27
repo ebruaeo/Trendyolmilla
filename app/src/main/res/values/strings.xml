@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Trendyolmilla</string>
+    <string name="search_hint">Marka, ürün veya kategori ara</string>
+</resources>
