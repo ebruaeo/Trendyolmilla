@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Trendyolmilla</string>
     <string name="search_hint">Marka, ürün veya kategori ara</string>
+    <string name="marka">TRENDYOLMİLLA</string>
+    <string name="explanation">Siyah Basic Pantolon </string>
 </resources>
