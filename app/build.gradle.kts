@@ -7,6 +7,9 @@ android {
     namespace = "com.example.trendyolmilla"
     compileSdk = 34
 
+    buildFeatures{
+        viewBinding=true
+    }
     defaultConfig {
         applicationId = "com.example.trendyolmilla"
         minSdk = 24
