@@ -29,5 +29,6 @@ class PopulerUrunlerAdapter
         holder.binding.textExplanation.text = itemData.description
         holder.binding.textPrice.text = itemData.price.toString()+ "TL"
 
+
     }
 }
